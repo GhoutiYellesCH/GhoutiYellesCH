@@ -1,13 +1,13 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NlOThvcTE2YmIwNzQ3aGZsbWJ0MG1sZDdzcTJkMmk1dHM4a3Y2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JTTAjM197sku8MgrRa/giphy.gif" width="250" height="150" alt="Hacker Cat" style="border-radius:50%; box-shadow: 0 0 10px #ff0077, 0 0 20px #ff0077;">
-</p>
-
 # 💻 // GHOUL-NET <SYSTEM-ONLINE> // 💾
 
 > **[ATTN: Agent Ghouti Yelles Chaouche]** Access Granted. **[STATUS: LEARNING]**
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NlOThvcTE2YmIwNzQ3aGZsbWJ0MG1sZDdzcTJkMmk1dHM4a3Y2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JTTAjM197sku8MgrRa/giphy.gif" width="250" alt="Hacker Cat" style="border-radius:50%; box-shadow: 0 0 10px #ff0077, 0 0 20px #ff0077;">
+</p>
 
 ### 🟢 // CURRENT OBJECTIVES
 
