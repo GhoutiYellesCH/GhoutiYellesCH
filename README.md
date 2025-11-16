@@ -22,7 +22,7 @@
 ### 🛡️ // THM SECURITY RATING (NEON GLOW)
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xor1Day.png" alt="TryHackMe Rank" width="300" style="border: 2px solid #00ffcc; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; border-radius: 5px;">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xor1Day.png" alt="TryHackMe Rank" width="750" style="border: 2px solid #00ffcc; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; border-radius: 5px;">
 </p>
 
 ---
