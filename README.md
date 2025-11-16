@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeuI6h55eQYJ2Ew/giphy.gif" width="50" height="50" alt="Hacker Cat" style="border-radius:50%; box-shadow: 0 0 10px #ff0077, 0 0 20px #ff0077;">
+  <img src="https://media.giphy.com/media/xT0xeuI6h55eQYJ2Ew/giphy.gif" width="250" height="150" alt="Hacker Cat" style="border-radius:50%; box-shadow: 0 0 10px #ff0077, 0 0 20px #ff0077;">
 </p>
 
 # 💻 // GHOUL-NET <SYSTEM-ONLINE> // 💾
@@ -34,6 +34,4 @@
 
 ---
 
-<p align="center">
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q3T8Q2Z)
-</p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q3T8Q2Z)
