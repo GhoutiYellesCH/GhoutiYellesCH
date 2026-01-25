@@ -25,6 +25,7 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/0xor1Day.png" alt="TryHackMe Rank" width="750" style="border: 2px solid #00ffcc; box-shadow: 0 0 10px #00ffcc, 0 0 20px #00ffcc; border-radius: 5px;">
 </p>
 
+<iframe src="https://ghoutiyelleschaouche.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 ---
 
 ### 🔑 // SECURED INTEL LINKS
