@@ -29,7 +29,7 @@
 
 ### 🔑 // SECURED INTEL LINKS
 
-* **[CYBER-PAD]** [Ghouti yelles chaouche](https://ghouti-yelles-chaouche.duckdns.org/)
+* **[CYBER-PAD]** [Ghouti yelles chaouche](https://ghouti-yelles-chaouche.netlify.org/)
 * **[LOG-FILES]** [Ghouti yelles chaouche blog](https://ghoutiyellesch.github.io/ghouti-blog/)
 
 ---
